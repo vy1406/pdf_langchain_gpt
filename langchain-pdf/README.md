@@ -162,7 +162,7 @@ flask --app app.web init-db
 ```
 
 
-## Vova: 
+## Vova ( after install )
 
 langchain-pdf ->
 pipenv shell 
